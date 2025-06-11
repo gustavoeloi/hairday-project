@@ -1,0 +1,11 @@
+{
+  "name": "HairDay",
+  "description": "Web application development to help a managment a barbershop",
+  "author": "Gustavo Eloi",
+  "scripts": {
+    "server": "json-server server.json --watch --port 3333"
+  },
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
